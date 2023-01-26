@@ -6,7 +6,8 @@ Created a simple API in Spring Boot which makes a table of courses with their id
 
 It uses the following methods: 
 
-![image](https://user-images.githubusercontent.com/107943000/214759618-e5040195-bff6-4fb1-9f3a-a7a4af429992.png)
+![image](https://user-images.githubusercontent.com/107943000/214759752-d76ab269-837b-48e2-a96e-1755c105df05.png)
+
 
 
 
